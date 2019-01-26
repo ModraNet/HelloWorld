@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main(){
-  cout << " Dobry wieczór! << endl;
+  cout << " Dobry wieczór! "<< endl;
  }
